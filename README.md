@@ -1,16 +1,15 @@
-Pensive - a Word Enlighter
-========
-Save words.And notice them highlighted whenever they appear.
-* Pensive helps to save as many words you want to and see notice them highlighted automatically when they appear. 
-* Pensive is designed to help you remember/learn words and not miss out on any chosen term/topic on web.
+# Pensive - an extensive highlighter
 
-Features
------------
-* Real-time count of number of words present.
-* Count of number of times each word appears.
-* Link to appearance of each word.
+An extensive word highlighting tool which is an ease to use. For beginners to prolific readers,It could be extremely helpful in learning new words or not miss on topics/terms of your interest go unnoticed.
 
-Instructions
------------
-* Add    : Simply double-click a word and click add '+' button or add from Popup
-* Remove : Double-click the highlighted button and click 'x'.
+Tool comes with pre-loaded lists of words that could help you prepare for competitive exams. Double click a word , press + icon to add word. The extension icon on top-right shows the number of words of your interest present on the page. Click on the icon, to make the expert use of the tool.
+
+### Features
+* Add words / phrase
+* Manage words
+* Manage Lists
+* Turn On/Off
+* Show words present on page
+* Number of times each word is present
+
+Check on [Chrome Web Store](https://chrome.google.com/webstore/detail/pensive-an-extensive-high/hpphpjjfaccabjggafeageiljmkppmla).
