@@ -11,3 +11,5 @@ Tool comes with pre-loaded lists of words that could help you prepare for compet
 * Turn On/Off
 * Show words present on page
 * Number of times each word is present
+
+Check on [Chrome Web Store](https://chrome.google.com/webstore/detail/pensive-an-extensive-high/hpphpjjfaccabjggafeageiljmkppmla).
