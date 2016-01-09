@@ -1,0 +1,92 @@
+root { 
+    display: block;
+}
+
+.chrome-extension-highlight
+{
+    /*background: #ffb7b7 !important;*/
+    background: #ffb7b7;    
+    border-bottom: none !important;
+    cursor: default;
+    display: inline-block;
+    position: relative;
+}
+
+.chrome-extension-pensive
+{
+
+    border-bottom: none !important;
+    cursor: default;
+    display: inline-block;
+    position: relative;
+}
+
+.chrome-extension-pensive.pensive-ccc
+{
+    background: #ccc !important;
+
+}
+
+/* Just to center things */
+.center {
+    margin: 100px auto;
+    width: 30px;
+}
+
+
+.chrome-extension-highlight .popover{
+
+    background: #ffb7b7 !important;
+    border-bottom: none !important;
+    color: #000;
+    position: absolute;
+    z-index: 999;
+    content: 0x2716;
+    cursor: pointer;
+
+
+}
+.chrome-extension-highlight:hover .popover:after
+{
+
+    /*content: "\2193";*/
+    content: "\2716";
+    padding:2px;
+}
+
+.addwordselect:hover .popover:after
+{
+    content: "\002B";
+    padding:2px;
+}
+
+.chrome-extension-highlight .popover:hover:after
+{
+    content: "\2716";
+    padding:2px;
+}
+
+.chrome-extension-highlight:hover .popover {
+
+    display: block;
+
+}
+
+.addword
+{
+    color: #000;
+    position: absolute;
+    z-index: 999;
+    content: 0x2716;
+    cursor: pointer;
+    font-weight: bold;
+    background: #ffb7b7 !important;
+
+}
+
+.addword:after
+{
+    content: "\002B";
+    font-weight: bold;
+    padding:0 4px;
+}
